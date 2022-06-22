@@ -46,7 +46,7 @@
 
 <br clear="both">
 
- ![Snake animation](https://raw.githubusercontent.com/lestardeangelo/lestardeangelo/blob/output/snake.svg)
+ ![Snake animation](https://github.com/lestardeangelo/lestardeangelo/blob/output/github-contribution-grid-snake.svg)
 
 
 ###
