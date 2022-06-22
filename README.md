@@ -46,6 +46,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/lestardeangelo/lestardeangelo/blob/output/snake.svg" alt="Snake animation" />
+ ![Snake animation](https://raw.githubusercontent.com/lestardeangelo/lestardeangelo/blob/output/snake.svg)
+
 
 ###
