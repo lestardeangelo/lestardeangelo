@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://lh3.googleusercontent.com/1eVDR24e-6S6S-EInc7ZDBfNNRvyyaWK4djO3I5zDORJAIUPyN65oA1xO1Bp-UxJeRCdKmqaeNboUsSXG7cTpSwHVMWL6CfVspetsecicN1uSRazflj_q-hGzir6b8bcR_WE4UfJcvPna5t0hZuPtvlOHr2kEAjRj5_gV60MVoxMBY8wjbehwHiLKn3g2A9QTBjO2Byltokt7uliy0ZhB1ciN95o8aCzkm-fe1G8w7MtztWB4z-IIex1y48Mgx_ZRBRwhbfiNTeaf3FwKf-n8hp7hcXnbHHPzOk2rHymoij1FPgtTojjPOtp3S6-dxyFqv0KwpxWfvMI3L-m-Te5xH_gSHlXfTqjwoiWnmo9WNHoW9DVkmH9aRc-TYSSTig_ZPrzQ-8OT3L8zkb9fNAQy_TsID8pv9OMCEKoVd2D8OmLT37Jt34ZO8IGPpaSeRrb-Rtx2IxqHgxpEp9mMkDyJQjNISylldoAJvhygi5pOYwTW7JsB7utRuFVvxMxAawi2baLN2C_VzypdlB-Ri83crDIQnZS0Z14lQw3RWE9MR9RmWTGmwISCbgQT5XSZS3hT-wkeVoADkr8x74DX3uET9B2akBI-QmZL5XJFuBaNgiTDJCU5N-GZugGxWuZFZflryr16qrASUTkfYJziVeg_q43u1id5wx4iallT23U5BPHMSkKIhkcdKPcH9lvCTQrDo1NsUygCWwIB0mSJ7jeLjMHHxJGxtapQwXIZySXZc-7fpECsXFNRLt3ZgBb9AwjhwV6pogIRhQnwgEPn6_uMDSioOTP-z41e0Mz7g=w599-h580-no?authuser=1"  />
+<img align="right" height="150" src="https://lh3.googleusercontent.com/AN3IMY5rOX1LrzhjGGa5HBFXFrJtHJzq4eBOm6ToPbRb0mkk967sDTeb3ACLGOhmAAwhl3zQe5qw-5lPHmf2fHUN4pq5uv1hnKXU6uPQe_1yscw63nuH11kDNRkLtfo44e6i7qpQx-eURdkb5Hexdjb4o61CUnATMOqIb8dNHQ91vM_I-rIyPr2sDDOlXM3epfWzKVOgSwtwykLG8zP9K0ohb5buUAZcC7tcUtCi8kpzuORo0BELUi4E6K8Dd08IHIpN8gyORozwV9cF6dGz_OWfRomLcqXdq_1aL6BrMG9Wo7eXPLx2RBqjDjP93EG0eSeyogJ6pLNP7GLmWXu2bxxI_CzeRyMV0KmSlOTYQoiw2R5FGaQos9Nb1ID33t6IuxwgME3iUZBrz3KrzYwc-l6lFryc7nNVwHG6KVBzXDfMxXLezwWBVa2MhZYU-Wn3VHpT9oo2TB-frbsnYoZf1b1h4a4qHFbHvhgJkNUUprBYmBHt8cx_z8KsgPAfTISo0dNsqVWVoT-Dt38npm3M1J--MwPCdcYMcAEeJJgT6sdvHqe_jN_ARzcxOPh27yycQgZHnzbeniExAon8clbdPmbiohUG39c7lEnHDN4HvE4-IvrWfzvoGfAjR4u962InsB12iFnayd_qx0ODwAG0PuoZaoo65j5-wcsqtTg43Mt_LYfaD4dJoJJHLKLaaMHzfjDDVEi5BtEepS3kmBribdELpsolHhRqDD5gxzCZarE-RBwCGjxIcjkckM-4Rpwq2ZTbjspKQjSQVCHpAENJzKCzNziJAeiE4WHeOQ=w599-h580-no?authuser=1"  />
 
 ###
 
@@ -41,11 +41,5 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-![Snake animation](https://github.com/lestardeangelo/lestardeangelo/blob/output/github-contribution-grid-snake.svg)
 
 ###
