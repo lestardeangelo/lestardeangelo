@@ -11,7 +11,7 @@
 <hr>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lestardeangelo&count_private=true&show_icons=true&theme=dark&locale=pt-br)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lestardeangelo&layout=compact&theme=dark&locale=pt-br)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lestardeangelo&layout=compact&theme=dark&locale=pt-br)
 
 <hr>
 
