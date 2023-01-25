@@ -2,11 +2,11 @@
 
 - 🌱 Estudando Back end | SQL | PostgreSQL | docker | Node | Typescript
 
-- 💬 Contate-me no email: lestarherminio@gmail.com
-
 - Apaixonado por tecnologia 👾❤
 
 - Atualmente sou Desenvolvedor Full-Stack 🤳
+
+- 💬 Contate-me no email: lestarherminio@gmail.com
 
  
 ## 
