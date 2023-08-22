@@ -1,10 +1,11 @@
 <h2 align="left">Olá! Eu sou Lestar de Angelo.</h2>
 
-- 🌱 Estudando Back end | SQL | PostgreSQL | docker | Node | Typescript
+- 🌱 Estudando Back end | SQL | MySQL | docker | spring | spring boot | Java
 
 - Apaixonado por tecnologia 👾❤
 
-- Atualmente sou Desenvolvedor Full-Stack 🤳
+- Atualmente sou Desenvolvedor Back-end na Esparta Tecnologia e Inovação ![image](https://github.com/lestardeangelo/lestardeangelo/assets/91694593/3cacf51b-c01a-43b4-8045-459855646e7c)
+
 
 - 💬 Contate-me no email: lestarherminio@gmail.com
 
