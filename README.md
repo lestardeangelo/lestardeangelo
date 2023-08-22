@@ -4,7 +4,7 @@
 
 - Apaixonado por tecnologia 👾❤
 
-- Atualmente sou Desenvolvedor Back-end na Esparta Tecnologia e Inovação <img align="center" alt="w10" height="30" width="45" src= "https://github.com/lestardeangelo/lestardeangelo/assets/91694593/0991183b-0951-48a0-9797-94e7bc86bf7d"/>
+- Atualmente sou Desenvolvedor Back-end na Esparta Tecnologia e Inovação <img align="center" alt="w10" height="30" width="30" src= "https://github.com/lestardeangelo/lestardeangelo/assets/91694593/0991183b-0951-48a0-9797-94e7bc86bf7d"/>
 
 
 - 💬 Contate-me no email: lestarherminio@gmail.com
