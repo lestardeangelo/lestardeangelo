@@ -1,6 +1,6 @@
 <h2 align="left">Olá! Eu sou Lestar de Angelo.</h2>
 
-- 🌱 Estudando Back end | SQL | MySQL | docker | spring | spring boot | Java
+- 🌱 Estudando Back end | SQL | MySQL | docker | spring | spring boot | Java ♨️
 
 - Apaixonado por tecnologia 👾❤
 
