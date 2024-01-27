@@ -4,7 +4,7 @@
 
 - Apaixonado por tecnologia 👾❤
 
-- De uma olhada no meu <a href="https://meu-portfolio-lestardeangelo.vercel.app/" target="_blank">portfólio</a>
+- De uma olhada no meu <a href="https://meu-portfolio-lestardeangelo.vercel.app/" target="_blank">Portfólio</a>
 
 - 💬 Contate-me no email: lestarherminio@gmail.com
 
