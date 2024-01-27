@@ -1,5 +1,7 @@
 <h2 align="left">Olá! Eu sou Lestar de Angelo.</h2>
 
+- Full Stack Web Developer 
+
 - Apaixonado por tecnologia 👾❤
 
 - 💬 Contate-me no email: lestarherminio@gmail.com
